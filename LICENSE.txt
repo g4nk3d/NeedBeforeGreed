@@ -1,0 +1,56 @@
+Need Before Greed
+Copyright (c) 2026 the NetherUI author. All Rights Reserved.
+
+Need Before Greed, including all of its code, item tables, textures, artwork, logos, music, sounds and documentation, is
+the property of the NetherUI author and is protected by copyright law. Every part of it was
+made by and belongs to the NetherUI author. No rights are granted except those written in this
+licence.
+
+1. WHAT YOU MAY DO
+
+  a) Use it. You may download, install and use Need Before Greed for your own play.
+
+  b) Make plugins. You may create your own separate addons (plugins and other extensions) that
+  work with Need Before Greed through its public interfaces, and you may
+  publish and distribute them under terms of your own choosing, provided that your addon does
+  not contain copies of Need Before Greed's files, code or artwork, and does not suggest
+  that it is made or endorsed by the NetherUI author.
+
+  c) Addon packs, with consent. You may include Need Before Greed in an addon pack, compilation, UI
+  package or modpack only with the prior written consent of the NetherUI author. Unless that
+  consent says otherwise, the pack must include Need Before Greed complete and unmodified (this
+  LICENSE.txt included), credit Need Before Greed and its author, link to its official project page,
+  and be offered free of charge. Consent applies to the pack and the releases it was given for,
+  and may be withdrawn for future releases.
+
+2. WHAT NEEDS THE AUTHOR'S WRITTEN CONSENT
+
+  Everything not allowed in section 1 needs prior written consent, including:
+    - redistributing, re-uploading or mirroring Need Before Greed or any part of it, modified or
+      unmodified;
+    - modifying Need Before Greed and distributing the modified version;
+    - using any of its code, item tables, textures, artwork, logos, music or sounds in another project;
+    - selling Need Before Greed or any part of it, or using it in a commercial product or service;
+    - removing or changing this licence or any copyright notice.
+
+3. ASKING FOR CONSENT
+
+  Contact the NetherUI author through the official Need Before Greed project page on CurseForge.
+  Consent only counts when it is given in writing by the NetherUI author.
+
+4. WHAT THIS LICENCE DOES NOT COVER
+
+  Game data
+    The item icons (shown from the game's own icon library, not included in Need Before Greed), class
+    names and other World of Warcraft game data belong to Blizzard Entertainment, Inc. What Need Before Greed remembers (your records and settings) is kept in your own
+    saved variables and is yours.
+
+5. NO WARRANTY
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO
+  EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE
+  USE OF THE SOFTWARE.
+
+World of Warcraft and Blizzard Entertainment are trademarks or registered trademarks of Blizzard
+Entertainment, Inc. Need Before Greed is a free, fan-made addon and is not affiliated with or
+endorsed by Blizzard Entertainment.

@@ -1,0 +1,48 @@
+## Interface: 16001, 120105, 120100, 120001, 120000
+## Title: |cffe8b04aNeed Before Greed|r
+## Notes: A loot-table game of bluff and nerve: Need, Greed or Pass in secret, call ninja on the greedy, and leave with the best haul without getting kicked. Part of the Nether addon family.
+## Author: NetherUI
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\NeedBeforeGreed\Media\Icon
+## SavedVariables: NeedBeforeGreedDB, NetherFamilyDB
+## OptionalDeps: NetherUI, NetherUI_Media, NetherSuite
+## X-License: All Rights Reserved
+## X-NetherSuite: 1
+## X-Nether-Family: 1
+## X-Nether-Order: 102
+## X-Nether-Description: A loot-table game of bluff and nerve: Need, Greed or Pass, call ninja, keep your reputation.
+
+# The Nether family's shared pieces (the same file in every Nether addon)
+NetherFamily.lua
+NetherSound.lua
+NetherChannels.lua
+NetherFont.lua
+
+# Core: namespace, saved data (per character by GUID), generated art manifest and layout, art and sound access
+Core\Init.lua
+Data\Atlas.lua
+Data\Layout.lua
+Core\Assets.lua
+Core\Audio.lua
+
+# The game: items and dungeons, the rules and the other players (no game API: the balance tools run these), records
+Game\Items.lua
+Game\Rules.lua
+Game\Progress.lua
+Game\Daily.lua
+Game\Awards.lua
+
+# Daily scores shared with other players (replay-checked)
+Comm\Leaderboard.lua
+
+# Screens: the game's own controls, the table, the window, the minimap button
+UI\Widgets.lua
+UI\Table.lua
+UI\Window.lua
+UI\Minimap.lua
+
+# The Nether family: settings, slash commands, NetherSuite tile, Esc > Options page
+Family\Family.lua
+Family\Skin.lua
+Family\Widgets.lua
+Family\Options.lua
